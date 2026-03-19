@@ -16,7 +16,6 @@ endif
 - Choisir type de paiement
 if (Paiment == CB) is (Oui) then
 - Verification Bancaire
-stop
 endif
 stop
 @enduml
